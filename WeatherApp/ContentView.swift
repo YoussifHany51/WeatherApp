@@ -41,7 +41,7 @@ struct ContentView: View {
                         temp:22)
                     
                     WeatherDayView(
-                        dayOfWeek: "TUE",
+                        dayOfWeek: "THU",
                         image: "cloud.rain.fill",
                         temp:16)
                 }.padding()
